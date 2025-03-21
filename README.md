@@ -1,3 +1,4 @@
+
 # Project Objective
 * To analyze pizza sales data and extract meaningful business insights.
 * To identify top-selling pizzas, peak sales hours, and revenue trends.
@@ -5,9 +6,10 @@
 * To leverage SQL queries for efficient data retrieval and decision-making.
 * To improve sales strategies based on data-driven insights.
 
+
   # PROBLEM SOLVED
 1. Retrieve the total number of orders placed.
-2. calculate the total revenue generated from pizza sales.
+2. Calculate the total revenue generated from pizza sales.
 3. Identify the highest priced pizza.
 4. Identify the most common pizza size ordered.
 5. List top 5 most orderes pizza types along with their quantities
